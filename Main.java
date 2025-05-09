@@ -4,4 +4,6 @@ public class Main {
         System.out.println("Hello, I am Gabriellll");
         System.out.println("hello, I am adriann");
     }
+    // resolving
+    //resolvinggggggg
 }
